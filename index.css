@@ -1,5 +1,8 @@
 .header {
-    background-color:gainsboro;
+    background-color:#F3D3BD;
+    padding: 5px;
+    border: 5px solid #5B85AA;
+    border-radius: 20px;
 }
 h2 {
     text-align:center;
@@ -8,5 +11,15 @@ h1 {
     text-align: center;
 }
 h1 {
-    background-color: burlywood;
+    background-color:#5B85AA;
+}
+p {
+    font-size: 25px;
+    padding: 6px;
+    border: 6px solid #DBDBDB;
+    color: #C1BFB5;
+}
+h1 {
+    padding: 5px;
+    border: 5px solid #F1F2F6;
 }
