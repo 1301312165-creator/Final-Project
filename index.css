@@ -6,6 +6,7 @@
 }
 h2 {
     text-align:center;
+    font-size:30px;
 }
 h1 {
     text-align: center;
@@ -17,9 +18,9 @@ p {
     font-size: 25px;
     padding: 6px;
     border: 6px solid #DBDBDB;
-    color: #C1BFB5;
+    color: #101419;
 }
 h1 {
     padding: 5px;
-    border: 5px solid #F1F2F6;
+    border: 5px solid #EACDC2;
 }
