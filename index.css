@@ -17,10 +17,18 @@ h1 {
 p {
     font-size: 25px;
     padding: 6px;
-    border: 6px solid #DBDBDB;
+    border: 6px solid #E8E9EB;
     color: #101419;
 }
 h1 {
     padding: 5px;
     border: 5px solid #EACDC2;
+}
+
+p {
+    color:272635
+}
+
+a{
+    font-size: 40px;
 }
